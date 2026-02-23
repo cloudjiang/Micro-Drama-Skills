@@ -14,3 +14,5 @@ __pycache__/
 
 .DS_Store
 notes/
+config.bat
+node_modules
