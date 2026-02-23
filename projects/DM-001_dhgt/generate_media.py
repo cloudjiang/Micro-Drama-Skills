@@ -5,6 +5,7 @@ Phase 1: 生成角色参考图 (Imagen)
 Phase 2: 参考角色图生成分镜图片 (Gemini multimodal / Imagen fallback)
 Phase 3: 参考分镜图生成视频 (Veo)
 """
+import utils.session
 import os
 import re
 import io
